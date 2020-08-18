@@ -1,0 +1,2 @@
+E:\Visual Studio Projects\FizzBuzz\Debug\FizzBuzz.exe
+E:\Visual Studio Projects\FizzBuzz\Debug\FizzBuzz.pdb
